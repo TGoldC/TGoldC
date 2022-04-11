@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hi there 👋  Welcome to my GitHub homepage!
+- 👋 Hello, I'm TGoldC! 
+- 🏫 I'm currently studying Robotics, Cognition, Intelligence in Technical University of Munich.
+- 👀 I’m interested in Autonomous Driving, Computer Vision, Machine Learning and Deep Learning.
+- 🌱 This GitHub page serves as a personal hub to store my projects and learning materials in different fields.
+- 📫 You can reach me per E-Mail: <cheng.xin1998@outlook.com>
 
 <!--
 **TGoldC/TGoldC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
